@@ -37,9 +37,9 @@ def get_next_states(state):
     return states
 
 
-# -----------------------------
+
 # Breadth First Search (BFS)
-# -----------------------------
+
 def bfs():
     start = (0, 0)
     queue = deque([[start]])
@@ -66,9 +66,9 @@ def bfs():
     return None
 
 
-# -----------------------------
+
 # Depth First Search (DFS)
-# -----------------------------
+
 def dfs():
     start = (0, 0)
     stack = [[start]]
@@ -95,9 +95,9 @@ def dfs():
     return None
 
 
-# -----------------------------
+
 # Main Execution
-# -----------------------------
+
 if __name__ == "__main__":
 
     print("---- BFS ----")
