@@ -1,5 +1,5 @@
 AI Programming Assignment
-Name: Aryan C
+Name: Aryan Chaudhary
 Roll Number: SE24UCSE033
 Course: Artificial Intelligence
 Overview
