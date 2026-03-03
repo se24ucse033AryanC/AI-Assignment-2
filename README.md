@@ -1,6 +1,9 @@
 # AI Assignment 2 – Individual Submission  
 
-**Name:** Aryan Chaudhary
+
+
+
+**Name:** Aryan Chaudhary  
 **Roll Number:** SE24UCSE033  
 **Course:** Artificial Intelligence  
 
