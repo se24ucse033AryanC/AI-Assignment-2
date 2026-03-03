@@ -1,6 +1,6 @@
 # AI Assignment 2 – Individual Submission  
 
-**Name:** Aryan Chaudhary  
+**Name:** Aryan Chaudhary
 **Roll Number:** SE24UCSE033  
 **Course:** Artificial Intelligence  
 
@@ -31,3 +31,28 @@ Folder: Turing_Captcha
 Includes:
 - CAPTCHA design explanation
 - Python demo implementation
+
+Run:
+cd Turing_Captcha
+python3 captcha_demo.py
+
+---
+
+## 3. Water Jug Problem (Uninformed Search)
+
+Folder: Search
+
+Implements:
+- Breadth First Search (BFS)
+- Depth First Search (DFS)
+
+Run:
+cd Search
+python3 water_jug.py
+
+---
+
+## Requirements
+
+- Python 3
+- No external libraries required
