@@ -1,8 +1,8 @@
 from collections import deque
 
-# -----------------------------
+
 # Water Jug Problem Definition
-# -----------------------------
+
 
 JUG1_CAPACITY = 4
 JUG2_CAPACITY = 3
